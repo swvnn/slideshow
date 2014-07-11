@@ -1,0 +1,8 @@
+<!-- Add any styling properties you want as long as you still have an 'absolute' position -->
+img {
+	width: 100%;
+	height: 50%;
+	left: 0;
+	right: 0;
+	position: absolute;
+}
